@@ -11,7 +11,7 @@
 
     <groupId>com.github.hazendaz.ant</groupId>
     <artifactId>apache-ant</artifactId>
-    <version>1.10.7-SNAPSHOT</version>
+    <version>1.10.7</version>
     <packaging>pom</packaging>
 
     <name>apache-ant</name>
@@ -30,7 +30,7 @@
         <connection>scm:git:ssh://git@github.com/hazendaz/ant.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/hazendaz/ant.git</developerConnection>
         <url>https://github.com/hazendaz/ant</url>
-        <tag>HEAD</tag>
+        <tag>apache-ant-1.10.7</tag>
     </scm>
     <distributionManagement>
         <site>
