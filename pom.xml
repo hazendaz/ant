@@ -45,8 +45,17 @@
         <download-plugin.version>1.6.0</download-plugin.version>
     </properties>
 
+    <dependencies>
+        <!-- Trick to have dependabot alert on updates to ant -->
+        <dependency>
+            <groupId>org.apache.ant</groupId>
+            <artifactId>ant</artifactId>
+            <version>${ant.version}</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+
     <build>
-        <finalName>ant</finalName>
         <plugins>
             <!-- Download -->
             <plugin>
@@ -79,7 +88,7 @@
                         <configuration>
                             <artifacts>
                                 <artifact>
-                                    <file>${project.build.directory}/apache-ant-1.10.7-bin.tar.gz</file>
+                                    <file>${project.build.directory}/apache-ant-${ant.version}-bin.tar.gz</file>
                                     <type>tar.gz</type>
                                     <classifier>bin</classifier>
                                 </artifact>
