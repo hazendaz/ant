@@ -41,7 +41,7 @@
     </distributionManagement>
 
     <properties>
-        <ant.version>1.9.15</ant.version>
+        <ant.version>1.10.8</ant.version>
         <download-plugin.version>1.6.0</download-plugin.version>
     </properties>
 
