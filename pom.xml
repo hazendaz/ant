@@ -11,7 +11,7 @@
 
     <groupId>com.github.hazendaz.ant</groupId>
     <artifactId>apache-ant</artifactId>
-    <version>1.10.8-SNAPSHOT</version>
+    <version>1.9.15-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>apache-ant</name>
@@ -41,7 +41,7 @@
     </distributionManagement>
 
     <properties>
-        <ant.version>1.10.7</ant.version>
+        <ant.version>1.9.15</ant.version>
         <download-plugin.version>1.6.0</download-plugin.version>
     </properties>
 
