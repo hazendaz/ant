@@ -83,7 +83,7 @@
                             <goal>wget</goal>
                         </goals>
                         <configuration>
-                            <url>https://www-us.apache.org/dist/ant/binaries/apache-ant-${ant.version}-bin.tar.gz</url>
+                            <url>https://dlcdn.apache.org/ant/binaries/apache-ant-${ant.version}-bin.tar.gz</url>
                         </configuration>
                     </execution>
                 </executions>
