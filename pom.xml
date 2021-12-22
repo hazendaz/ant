@@ -49,9 +49,9 @@
     </scm>
     <distributionManagement>
         <site>
-            <id>gh-pages</id>
+            <id>gh-pages-scm</id>
             <name>Apache Ant Distribution Wrapper GitHub Pages</name>
-            <url>github:https://hazendaz.github.io/ant/</url>
+            <url>scm:git:ssh://git@github.com/hazendaz/ant.git</url>
         </site>
     </distributionManagement>
 
