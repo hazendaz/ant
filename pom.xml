@@ -56,7 +56,7 @@
     </distributionManagement>
 
     <properties>
-        <ant.version>1.10.13</ant.version>
+        <ant.version>1.10.14</ant.version>
         <download-plugin.version>1.7.1</download-plugin.version>
     </properties>
 
