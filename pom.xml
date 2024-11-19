@@ -58,7 +58,7 @@
 
     <properties>
         <ant.version>1.10.15</ant.version>
-        <download-plugin.version>1.11.5</download-plugin.version>
+        <download-plugin.version>1.12.0</download-plugin.version>
     </properties>
 
     <dependencies>
