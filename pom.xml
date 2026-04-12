@@ -18,7 +18,7 @@
 
     <groupId>com.github.hazendaz.ant</groupId>
     <artifactId>apache-ant</artifactId>
-    <version>1.10.17</version>
+    <version>1.10.18-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>apache-ant</name>
