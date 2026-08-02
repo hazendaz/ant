@@ -1,8 +1,8 @@
 # Apache Ant Distro #
 
 [![Java CI](https://github.com/hazendaz/ant/workflows/Java%20CI/badge.svg)](https://github.com/hazendaz/ant/actions?query=workflow%3A%22Java+CI%22)
-[![Maven Central](https://img.shields.io/maven-central/v/com.github.hazendaz.ant/apache-ant.svg)](https://central.sonatype.com/artifact/com.github.hazendaz.ant/apache-ant)
-[![Apache 2](http://img.shields.io/badge/license-Apache%202-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.hazendaz.ant/apache-ant?logo=apache-maven&label=maven%20central)](https://central.sonatype.com/artifact/com.github.hazendaz.ant/apache-ant)
+[![Apache 2](https://img.shields.io/github/license/hazendaz/ant?logo=apache)](http://www.apache.org/licenses/LICENSE-2.0)
 
 ![hazendaz](src/site/resources/images/hazendaz-banner.jpg)
 
