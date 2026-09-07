@@ -17,3 +17,8 @@ Apache Ant does not currently provide a maven central distribution of the entire
 # Use Case #
 
 Maven based storage of distribution in common location to offer more secure download location.
+
+# Note #
+
+Given restrictions on sonatype publishing, this is now deprecated.  It served a good immutability standpoint for years but most would not use ant directly any longer.  Ant doesn't currently make available in github
+but seem to do doing a lot of work on ant so maybe that can be an ask to them but they use jira I think.
